@@ -7,8 +7,10 @@ p {
     color: rgb(245, 255, 250);
 }
 a {
-    color: green;
-    background-color: rgb(221, 71, 184);
+    color: rgb(216, 191, 216);
+}
+a:hover {
+    color: red;
 }
 img {
     color: rgb(121, 198, 235); 
