@@ -2,8 +2,11 @@ body {
     color : rgb(245, 255, 250);
     background-color: #096b6bda;
 }
+h{
+    background-color: rgb(44, 155, 149)
+}
 p {
-    background-color: rgb(44, 155, 149); 
+    background-color: rgb(106, 212, 245); 
     color: rgb(245, 255, 250);
 }
 a {
