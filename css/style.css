@@ -1,6 +1,11 @@
 p {
     background-color: MediumSeaGreen; 
+    font color: rgb(227, 238, 232);
 }
 a {
     color: green;
+    background-color: rgb(221, 71, 184);
+}
+img {
+    color: rgb(121, 198, 235); 
 }
