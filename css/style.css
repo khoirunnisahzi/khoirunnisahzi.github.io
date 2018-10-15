@@ -34,3 +34,13 @@ div {
     colour: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
 }   
+.kotak 1 {
+    color: rgb(255, 255, 255);   
+    width: 200px;
+    height: 150px;
+}
+.kotak 2 {
+    color: rgb(red);
+    width: 200px;
+    height: 150px;
+}
