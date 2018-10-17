@@ -6,8 +6,8 @@
 			}
 			.content{
 				float:left;
-				width:50%;
-				background-color: blue;
+				width:80%;
+				background-color: lightgreen;
 			}
 			.main{
 				
@@ -23,7 +23,7 @@
 			}
 			.sidebar{
 				float:right;
-				width:50%;
+				width:20%;
 				background-color: red;
 			}
 	
