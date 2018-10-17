@@ -6,12 +6,12 @@
 			}
 			.content{
 				float:left;
-				width:15%;
-				background-color: red;
+				width:50%;
+				background-color: blue;
 			}
 			.main{
 				
-				width:70%;
+				width:100%;
 				background-color: lightgray;
 			}
 			.footer{
@@ -23,7 +23,7 @@
 			}
 			.sidebar{
 				float:right;
-				width:200px;
+				width:50%;
 				background-color: red;
 			}
 	
