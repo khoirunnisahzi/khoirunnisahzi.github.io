@@ -14,11 +14,6 @@
 				width:70%;
 				background-color: lightgray;
 			}
-			.sidebar1{
-				float:left;
-				width:180px;
-				background-color: red;
-			}
 			.footer{
 				clear:both;
 				height: 50px;
@@ -26,7 +21,7 @@
 				text-align: center;
 				background-color: lightblue;
 			}
-			.sidebar2{
+			.sidebar{
 				float:right;
 				width:200px;
 				background-color: red;
