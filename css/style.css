@@ -3,7 +3,8 @@ body {
     background-color: rgb(102, 205, 170);
 }
 h{
-    background-color: rgb(44, 155, 149)
+    background-color: rgb(44, 155, 149);
+    font-family: Verdana, Geneva, sans-serif;
 }
 p {
     color: rgb(245, 255, 250);
