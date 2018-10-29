@@ -4,8 +4,14 @@ body {
 }
 h{
     
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: sans-serif;
 }
+h2{
+    text-align: center;     
+}
+h3{
+    text-align: center;
+}   
 .index h{
     background color:    rgb(29, 139, 139);
 }
