@@ -15,6 +15,9 @@ a {
 a:hover {
     color: red;
 }
+.a href {
+    color: black;   
+}
 table, th, td {
     border: 1px solid black;
  }
