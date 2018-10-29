@@ -6,8 +6,9 @@ h{
     
     font-family: Verdana, Geneva, sans-serif;
 }
-
-
+p{
+    text-align:center;
+}
 a {
     color: rgb(216, 191, 216);
 }
