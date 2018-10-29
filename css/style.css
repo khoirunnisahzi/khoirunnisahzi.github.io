@@ -3,12 +3,11 @@ body {
     background-color: white;
 }
 h{
-    background-color: rgb(44, 155, 149);
+    
     font-family: Verdana, Geneva, sans-serif;
 }
-p {
-    color: rgb(245, 255, 250);
-}
+
+
 a {
     color: rgb(216, 191, 216);
 }
