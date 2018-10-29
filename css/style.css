@@ -20,14 +20,12 @@ p{
     padding: 20px;
 }
 a {
-    color: rgb(216, 191, 216);
+    color: blue;
 }
 a:hover {
     color: red;
 }
-.a href {
-    color: black;   
-}
+
 table, th, td {
     border: 1px solid black;
  }
