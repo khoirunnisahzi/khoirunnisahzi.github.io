@@ -6,6 +6,9 @@ h{
     
     font-family: Verdana, Geneva, sans-serif;
 }
+.index h{
+    background color:    rgb(29, 139, 139);
+}
 p{
     text-align: center;
 }
