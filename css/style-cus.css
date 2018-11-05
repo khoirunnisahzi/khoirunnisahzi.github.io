@@ -6,7 +6,8 @@
 			}
 			.content{
 				float:left;
-				width:100%;
+				width:80%;
+				height: 33px;
 				background-color: lightgreen;
 			}
 			.main{
@@ -24,7 +25,8 @@
 			.sidebar{
 				float:right;
 				width:20%;
-				background-color: red;
+				background-color: rgb(253, 215, 3);
+				height: 33px;
 			}
 			.kepala {
 				text-align: left;
